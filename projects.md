@@ -11,3 +11,6 @@ permalink: /projects/
 
 * [Expensify](http://expensify.codywanless.com)   
     Expense tracker built using React, Redux and Node using Firebase for authentication and storage.
+
+* [Indecision](http://indecision.codywanless.com)   
+    Simple React app that allows the browser to help you make decisions. Perfect for a situation like when you and your significant other are looking for places to eat!
