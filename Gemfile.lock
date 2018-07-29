@@ -52,11 +52,11 @@ DEPENDENCIES
   jekyll (~> 3.6.2)
   jekyll-feed (~> 0.6)
   jekyll-theme-prologue (~> 0.3.2)
-  rake
+  rake (~> 12.0.0)
   tzinfo-data
 
 RUBY VERSION
    ruby 2.4.0p0
 
 BUNDLED WITH
-   1.15.4
+   1.16.3
