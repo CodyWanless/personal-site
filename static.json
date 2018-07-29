@@ -1,8 +1,5 @@
 {
     "clean_urls": true,
     "https_only": true,
-    "root": "_site/",
-    "routes": {
-        "/assets/*": "_site/assets"
-    }
+    "root": "_site/"
 }
