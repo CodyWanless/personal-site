@@ -29,7 +29,7 @@ google_analytics: UA-109319459-1
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: jekyll-theme-prologue
 collections: [sections]
 plugins:
 #  - jekyll-feed
