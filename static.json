@@ -3,6 +3,6 @@
     "https_only": true,
     "root": "_site/",
     "routes": {
-        "/assets/*": "/assets"
+        "/assets/*": "_site/assets"
     }
 }
