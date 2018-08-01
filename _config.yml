@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” 
   ― Martin Fowler
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "codywanless.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.codywanless.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CodyWanless
 github_username:  CodyWanless
 google_analytics: UA-109319459-1
