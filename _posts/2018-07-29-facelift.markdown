@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Makeover"
-date:   2018-07-29 09:22:00 -0500
-categories: me
----
-
-Site appearance has been uplifted and is now hosted on Heroku to support the new theme.
