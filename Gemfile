@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.6.3"
+gem "jekyll", "~> 4.2.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem 'jekyll-theme-prologue', '~> 0.3.2'
@@ -26,4 +26,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "rake", "~> 12.3.3"
-ruby "2.4.0"
+ruby "3.0.2"
+
+gem "webrick", "~> 1.7"
