@@ -14,4 +14,7 @@ order: 2
 - [Indecision](http://indecision.codywanless.com)  
    Simple React app that allows the browser to help you make decisions. Perfect for a situation like when you and your significant other are looking for places to eat!
 
+- [Nicolas Cage Blog](http://livefromthecage.codywanless.com)   
+   The result of bordeom over COVID
+
 Follow me on [Github](https://github.com/CodyWanless)!
