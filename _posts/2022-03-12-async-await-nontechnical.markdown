@@ -17,7 +17,7 @@ Commonly these two concepts are confused as interchangeable and they are not. Th
 
 ## Example Answer
 
-One of the best answers to the this question is as follows.
+One of my favorite answers to the question is as follows.
 
 It's Sunday. You have the Sunday Scaries - including but not limited to: feeding yourself, laundry, feeding the cat, milking the cows, setting up the date for tomorrow, taxes, etc. In your existential despair, you decide to order a pizza. You pick up your cell phone and order the pizza. You have some options at this point. Either you can: sit in front of the door waiting for the pizza or start to tackle the remaining chores you have to do.
 
